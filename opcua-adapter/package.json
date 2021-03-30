@@ -9,6 +9,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "node-opcua": "0.0.65"
+        "node-opcua": "0.0.65",
+        "aws-greengrass-core-sdk": "^1.7.0"        
     }
 }

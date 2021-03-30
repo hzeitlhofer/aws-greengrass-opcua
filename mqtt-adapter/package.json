@@ -1,5 +1,5 @@
 {
-  "name": "data-adapter",
+  "name": "mqtt-adapter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
